@@ -1,1 +1,1 @@
-# EPIC-ARCHERY
+# project-C24-template
